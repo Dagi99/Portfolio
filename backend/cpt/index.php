@@ -9,5 +9,5 @@
  */
 
 add_action('init', function () {
-    // require_once __DIR__ . '/_posttype.php';
+    require_once __DIR__ . '/_collection.php';
 }, 0);

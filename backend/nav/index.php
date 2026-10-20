@@ -9,6 +9,9 @@
 
 add_filter('init', function () {
     register_nav_menus([
-        // todo: Menus hier registrieren
+        // -> Header: About · Work · Contact (der letzte Eintrag wird als Pill-Button dargestellt)
+        'main' => 'Hauptnavigation',
+        // -> Footer: Impressum · Datenschutz
+        'footer' => 'Footer-Navigation',
     ]);
 });

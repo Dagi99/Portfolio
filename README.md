@@ -13,3 +13,8 @@ In diesem Ordner befinden sich alle Dateien, die mit dem Frontend der Webseite z
 In diesem Ordner sind Anleitungen für die verschiedenen Erweiterungen abgelegt, die man in diesem Theme machen kann. Natürlich kann das Theme auch anderweitig ausgebaut werden, diese Anleitungen decken einfach die "Standard-Erweiterungen" ab.
 
 Die Anleitungen sind so konzipiert, dass auch eine KI sie lesen kann und bei der Entwicklung der Erweiterungen unterstützen kann.
+
+## 🎬 Portfolio Dagi
+Dieses Repository enthält das fertige Portfolio-Theme auf Basis des Starter-Themes: Custom Post Type `collection`, drei Taxonomien, zwei Menus, neun Module und das dunkle, filmische Design aus dem Mockup.
+
+Wie die Inhalte im Backend erfasst werden, steht in [manuals/portfolio-einrichten.md](manuals/portfolio-einrichten.md).

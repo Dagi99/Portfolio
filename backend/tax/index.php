@@ -8,5 +8,7 @@
 */
 
 add_action('init', function () {
-    // require_once __DIR__ . '/_taxonomy.php';
+    require_once __DIR__ . '/_collection_discipline.php';
+    require_once __DIR__ . '/_collection_tool.php';
+    require_once __DIR__ . '/_collection_role.php';
 }, 0);
